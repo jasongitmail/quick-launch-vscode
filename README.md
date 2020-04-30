@@ -1,5 +1,7 @@
 # Quick Launch VSCode
 
+![screenshot](screenshot.png)
+
 Adds a button to MacOS Finder to launch the currently-selected directory in VSCode. Saves time versus dragging the directory to VSCode's dock icon or right clicking and selecting "Open With".
 
 ## Installation
